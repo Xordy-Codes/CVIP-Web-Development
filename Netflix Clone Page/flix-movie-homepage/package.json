@@ -1,0 +1,11 @@
+{
+  "name": "flix-movie-homepage",
+  "version": "1.0.0",
+  "description": "How To Create Responsive Movie Website Using HTML CSS And jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
